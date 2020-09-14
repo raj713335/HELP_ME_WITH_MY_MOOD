@@ -1,7 +1,7 @@
 # HELP ME WITH MY MOOD
 IBMHACKCALLENGE CODE FOR PROBLEM NUMBER 3
 
-HELP_ME_WITH_MY_MOOD
+`HELP_ME_WITH_MY_MOOD`
 
 and you can view youtube video on how to use our project at the link:
 
