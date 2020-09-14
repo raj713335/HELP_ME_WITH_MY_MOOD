@@ -11,12 +11,15 @@ url="https://www.youtube.com/watch?v=F4hYAhBpYHs&feature=youtu.be"
 
 
 ## TO VIEW TO PROJECT:
+<ul>
 
-  1.Download the zip file
+  <li><b>1. </b>Download the zip file</li>
   2.Extract its contents
   3.open the MOOD_ANALYSIS\PycharmProjects\HELP_ME_WITH_MY_MOOD
   4.Run MOOD_ANALYSIS.py
   5.for deatiled discription read the read me file and idea.pdf
+  
+  </ul>
 
 
 THANK YOU !AND HAVE A NICE DAY
